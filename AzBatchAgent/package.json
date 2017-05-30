@@ -1,0 +1,9 @@
+{
+  "name": "az-batch-agent",
+  "version": "0.0.0",
+  "description": "AzBatchAgent",
+  "main": "app.js",
+  "author": {
+    "name": "vazvadsk"
+  }
+}
