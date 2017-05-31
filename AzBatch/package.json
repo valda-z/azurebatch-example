@@ -5,5 +5,9 @@
   "main": "app.js",
   "author": {
     "name": "vazvadsk"
+  },
+  "dependencies": {
+    "azure-batch": "^1.0.0-preview",
+    "azure-storage": "^2.1.0"
   }
 }
